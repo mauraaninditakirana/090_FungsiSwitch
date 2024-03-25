@@ -66,6 +66,6 @@ int main()
             cout <<"Pililhan tidak ada" << endl;
             break;
        }
-    } while (/* condition */);
+    } while (pilihan == 5 )
     
 }
